@@ -1,0 +1,47 @@
+1. Create a new ReactJS app: 
+
+npx create-react-app vid-pic-fro 
+
+
+2. Force commands to be processed in terminal: 
+
+Set-ExecutionPolicy Bypass -Scope Process -Force 
+
+
+3. To create a production build, use: 
+
+npm run build 
+
+
+4. 
+
+npm install axios 
+
+
+5. 
+
+npm install react-router-dom 
+
+
+6. 
+
+thabisotapala@gmail.com 
+
+0638165250 
+
+Thabiso 
+
+
+7. 
+
+
+
+
+
+
+
+
+
+
+
+
