@@ -1,0 +1,56 @@
+1. Create a new ReactJS app: 
+
+npx create-react-app vid-pic-fro 
+
+OR 
+
+npx create-react-app@latest vid-pic-fro 
+
+
+2. Force commands to be processed in terminal: 
+
+Set-ExecutionPolicy Bypass -Scope Process -Force 
+
+
+3. Yarn: 
+
+npm install -g yarn
+
+
+yarn create react-app jwt-auth-reactjs 
+
+
+yarn start
+
+
+# links: 
+
+https://chatgpt.com/share/675989b0-3fdc-8010-bb18-292c9a818c63 
+
+
+4. Install axios: 
+
+yarn add axios
+
+
+5. Install react-router-dom
+
+yarn add react-router-dom
+
+
+6. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

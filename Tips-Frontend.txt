@@ -1,6 +1,6 @@
 1. Create a new ReactJS app: 
 
-npx create-react-app vid-pic-fro 
+npx create-react-app jwt-auth-reactjs 
 
 
 2. Force commands to be processed in terminal: 
@@ -24,12 +24,6 @@ npm install react-router-dom
 
 
 6. 
-
-thabisotapala@gmail.com 
-
-0638165250 
-
-Thabiso 
 
 
 7. 
